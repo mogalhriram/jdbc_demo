@@ -6,3 +6,5 @@ Java JDBC Demonstration using MYSQL database
 -JDBC API uses JDBC drivers to connect with the database.
 
 This is simple demo of JDBC with MYSQL. Created using maven project. It is student managemant application.
+
+Code -----> In Master Branch
